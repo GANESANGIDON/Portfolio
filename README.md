@@ -4,5 +4,5 @@
 ### Also added Formspree on contact form thus the message will be delivered to my mail ID.
 ### Scroll Spy added to highlight the active navigation link.
 ### Soon animate on scroll will be added without any libraries.
-### Deployed Link : 
+### Deployed Link : https://ganesangidon.github.io/Portfolio/
 #### Do checkout and give your feedback.
