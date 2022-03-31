@@ -6,3 +6,4 @@
 ### Soon animate on scroll will be added without any libraries.
 ### Deployed Link : https://ganesangidon.github.io/Portfolio/
 #### Do checkout and give your feedback.
+![portfolio](https://user-images.githubusercontent.com/88224886/160999560-9f2de3c0-6ac1-45be-adb7-80dae2cfce26.png)
