@@ -1105,6 +1105,7 @@ footer {
 /* feedback link */
 #feedback {
   color: var(--textsecondary);
+  cursor: pointer;
 }
 
 #feedback:hover {
