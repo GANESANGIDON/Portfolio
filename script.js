@@ -158,4 +158,14 @@ const slideNext = function () {
 slider.addEventListener('click', slideNext)
 
 // For auto carousel
-const autoSlide = setInterval(slideNext, 4000)
+let autoSlide = setInterval(slideNext, 4000)
+
+// To stop carousel
+slider.addEventListener('mouseover', ()=>{
+  clearInterval(autoSlide)
+})
+
+// To restart carousel
+slider.addEventListener('mouseleave', ()=>{
+  autoSlide = setInterval(slideNext, 4000)
+})

@@ -1050,7 +1050,7 @@ progress {
 }
 
 .input-field:focus {
-  /* border: none; */
+  color: var(--textsecondary);
   background-color: var(--bgsecondary);
   box-shadow: inset 0px -3px 0px var(--textsecondary);
 }
@@ -1071,7 +1071,7 @@ textarea {
   bottom: 1px;
   font-size: 1.1rem;
   color: var(--textprimary);
-  padding: 5px 10px;
+  padding: 5px 8px;
   border-radius: 5px;
   background-color: var(--btnbg);
 }
@@ -1105,10 +1105,12 @@ footer {
 /* feedback link */
 #feedback {
   color: var(--textsecondary);
+  font-weight: 600;
   cursor: pointer;
 }
 
 #feedback:hover {
+  font-weight: 700;
   color: royalblue;
 }
 
